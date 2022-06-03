@@ -1,0 +1,24 @@
+C:\Users\SALA401\Desktop\Juego-Prog\Rompecabeza\Rompecabeza\bin\Debug\Rompecabeza.exe.config
+C:\Users\SALA401\Desktop\Juego-Prog\Rompecabeza\Rompecabeza\bin\Debug\Rompecabeza.exe
+C:\Users\SALA401\Desktop\Juego-Prog\Rompecabeza\Rompecabeza\bin\Debug\Rompecabeza.pdb
+C:\Users\SALA401\Desktop\Juego-Prog\Rompecabeza\Rompecabeza\obj\Debug\Rompecabeza.csproj.AssemblyReference.cache
+C:\Users\SALA401\Desktop\Juego-Prog\Rompecabeza\Rompecabeza\obj\Debug\Rompecabeza.csproj.SuggestedBindingRedirects.cache
+C:\Users\SALA401\Desktop\Juego-Prog\Rompecabeza\Rompecabeza\obj\Debug\Rompecabeza.Properties.Resources.resources
+C:\Users\SALA401\Desktop\Juego-Prog\Rompecabeza\Rompecabeza\obj\Debug\Rompecabeza.csproj.GenerateResource.cache
+C:\Users\SALA401\Desktop\Juego-Prog\Rompecabeza\Rompecabeza\obj\Debug\Rompecabeza.csproj.CoreCompileInputs.cache
+C:\Users\SALA401\Desktop\Juego-Prog\Rompecabeza\Rompecabeza\obj\Debug\Rompecabeza.exe
+C:\Users\SALA401\Desktop\Juego-Prog\Rompecabeza\Rompecabeza\obj\Debug\Rompecabeza.pdb
+C:\Users\SALA401\Desktop\Juego-Prog\Rompecabeza\Rompecabeza\obj\Debug\Rompecabeza.Form1.resources
+C:\Users\SALA401\Desktop\Juego-Prog\Rompecabeza\Rompecabeza\obj\Debug\Rompecabeza.Form2.resources
+C:\Users\FABIO BAQUERO DAZA\Downloads\Rompecabeza\Rompecabeza\bin\Debug\Rompecabeza.exe.config
+C:\Users\FABIO BAQUERO DAZA\Downloads\Rompecabeza\Rompecabeza\bin\Debug\Rompecabeza.exe
+C:\Users\FABIO BAQUERO DAZA\Downloads\Rompecabeza\Rompecabeza\bin\Debug\Rompecabeza.pdb
+C:\Users\FABIO BAQUERO DAZA\Downloads\Rompecabeza\Rompecabeza\obj\Debug\Rompecabeza.csproj.AssemblyReference.cache
+C:\Users\FABIO BAQUERO DAZA\Downloads\Rompecabeza\Rompecabeza\obj\Debug\Rompecabeza.csproj.SuggestedBindingRedirects.cache
+C:\Users\FABIO BAQUERO DAZA\Downloads\Rompecabeza\Rompecabeza\obj\Debug\Rompecabeza.Form1.resources
+C:\Users\FABIO BAQUERO DAZA\Downloads\Rompecabeza\Rompecabeza\obj\Debug\Rompecabeza.Form2.resources
+C:\Users\FABIO BAQUERO DAZA\Downloads\Rompecabeza\Rompecabeza\obj\Debug\Rompecabeza.Properties.Resources.resources
+C:\Users\FABIO BAQUERO DAZA\Downloads\Rompecabeza\Rompecabeza\obj\Debug\Rompecabeza.csproj.GenerateResource.cache
+C:\Users\FABIO BAQUERO DAZA\Downloads\Rompecabeza\Rompecabeza\obj\Debug\Rompecabeza.csproj.CoreCompileInputs.cache
+C:\Users\FABIO BAQUERO DAZA\Downloads\Rompecabeza\Rompecabeza\obj\Debug\Rompecabeza.exe
+C:\Users\FABIO BAQUERO DAZA\Downloads\Rompecabeza\Rompecabeza\obj\Debug\Rompecabeza.pdb
